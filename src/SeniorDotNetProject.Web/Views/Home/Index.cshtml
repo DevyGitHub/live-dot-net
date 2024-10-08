@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>This is a sample .NET Core MVC application.</p>
+</div>
+
+<div id="jquery-example"></div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $("#jquery-example").text("This text was added using jQuery!");
+        });
+    </script>
+}

@@ -1,0 +1,31 @@
+SeniorDotNetProject/
+├── src/
+│   ├── SeniorDotNetProject.Web/
+│   │   ├── Controllers/
+│   │   ├── Models/
+│   │   ├── Views/
+│   │   ├── Pages/
+│   │   ├── wwwroot/
+│   │   │   ├── css/
+│   │   │   ├── js/
+│   │   │   └── lib/
+│   │   ├── appsettings.json
+│   │   ├── Program.cs
+│   │   └── Startup.cs
+│   ├── SeniorDotNetProject.API/
+│   │   ├── Controllers/
+│   │   ├── Models/
+│   │   ├── appsettings.json
+│   │   ├── Program.cs
+│   │   └── Startup.cs
+│   └── SeniorDotNetProject.Data/
+│       ├── Entities/
+│       ├── Repositories/
+│       ├── SeniorDotNetProjectContext.cs
+│       └── Migrations/
+├── tests/
+│   ├── SeniorDotNetProject.Web.Tests/
+│   ├── SeniorDotNetProject.API.Tests/
+│   └── SeniorDotNetProject.Data.Tests/
+├── SeniorDotNetProject.sln
+└── README.md
