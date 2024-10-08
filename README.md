@@ -1,6 +1,6 @@
-# Senior .NET Developer Interview Project
+# Live dot NET
 
-This project is a starting point for the interview process. The interviewee will be asked to make modifications and answer questions related to this codebase.
+This project is a starting point.
 
 ## Project Structure
 
@@ -21,7 +21,7 @@ How would you do the following:
 7. Write unit tests for the `WeatherForecastController`.
 8. Implement a simple logging mechanism using a third-party logging framework like Serilog.
 
-## Interview Questions
+## Questions
 
 ### SQL Server
 
@@ -54,4 +54,4 @@ How would you do the following:
 6. Explain how you would use Entity Framework Core with this project structure.
 7. How would you ensure this application is PCI compliant?
 
-The interviewee should be prepared to discuss these topics, answer the questions, and potentially implement solutions related to the coding tasks during the live coding session.
+Be prepared to discuss these topics, answer the questions, and potentially implement solutions related to the coding tasks during the live coding session.
